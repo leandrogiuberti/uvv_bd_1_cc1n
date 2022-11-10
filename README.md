@@ -1,3 +1,3 @@
-# Projeto Psset_1
+# Projeto Pset_1
 ## Nome: Leandro Giuberti Fachinoti
 ## Professor: Abrantes Filho 
