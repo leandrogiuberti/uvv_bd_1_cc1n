@@ -1,1 +1,3 @@
-# uvv_bd_1_cc1n
+# Projeto Psset_1
+## Nome: Leandro Giuberti Fachinoti
+## Professor: Abrantes Filho 
